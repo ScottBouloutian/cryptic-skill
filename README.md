@@ -1,2 +1,2 @@
-# shapeshift-skill
-Alexa Skill to learn the current CryptoCurrency exchange rates on ShapeShift
+# cryptic-skill
+💰 Alexa Skill to learn the current prices of crypto currencies
